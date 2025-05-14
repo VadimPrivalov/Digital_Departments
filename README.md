@@ -2,7 +2,7 @@
 
 -- Основы разработки игр  на движке Unity --
 
-*Workshop1* - Выполнена
+*Workshop1* - Выполнена в ветке "Workshop1"
 
 *Workshop2* -
 
