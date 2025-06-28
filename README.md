@@ -8,10 +8,10 @@
 
 *Workshop3* - Выполнена в ветке "Workshop3"
 
-*Workshop4* -
+*Workshop4* - Выполнена в ветке "Workshop4"
 
-*Workshop5* -
+*Workshop5* - Выполнена в ветке "Workshop5"
 
-*Workshop6* -
+*Workshop6* - Выполнена в ветке "Workshop6"
 
-*Workshop7* -
+*Workshop7* - Выполнена в ветке "Workshop7"
